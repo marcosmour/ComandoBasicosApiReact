@@ -49,6 +49,26 @@
       "name": "jogo da velha",
       "price": "1100",
       "id": 10
+    },
+    {
+      "name": "cadeira",
+      "price": "10",
+      "id": 11
+    },
+    {
+      "name": "Marcos Moura Brito",
+      "price": "100",
+      "id": 12
+    },
+    {
+      "name": "mar",
+      "price": "10",
+      "id": 13
+    },
+    {
+      "name": "mar",
+      "price": "50",
+      "id": 14
     }
   ]
 }
