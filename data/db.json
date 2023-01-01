@@ -29,6 +29,26 @@
       "name": "capa de chuva ",
       "price": "50.50",
       "id": 6
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 7
+    },
+    {
+      "name": "bateria",
+      "price": "12",
+      "id": 8
+    },
+    {
+      "name": "bateria",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "jogo da velha",
+      "price": "1100",
+      "id": 10
     }
   ]
 }
